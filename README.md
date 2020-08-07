@@ -1,14 +1,24 @@
 # KaKao Arena
 
-##  - DATA SET
+## 1. DATA SET
 
-## 환경설정
+## 2. 공통사항
 
--  BERT
+## 3. BERT
 
-- CNN
+- 환경설정
 
-## Word2vec
+- Code
+
+## 4. CNN
+
+- 환경설정
+
+- Code
+
+## 5. Word2vec
+
+- Code
  
  
  
