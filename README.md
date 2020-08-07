@@ -1,14 +1,14 @@
 # KaKao Arena
 
+##  - DATA SET
+
 ## 환경설정
 
- ###  - DATA SET
+-  BERT
 
- ### -  BERT
- 
- ###  - CNN
- 
- ## Word2vec
+- CNN
+
+## Word2vec
  
  
  
