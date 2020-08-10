@@ -1,6 +1,17 @@
-# KaKao Arena
+# KaKao Arena - Melon Playlist Continuation(플레이리스트에 가장 어룰리는 곡들을 예측)
 
 ## 1. DATA SET
+
+- 플레이 리스트 메타 데이터
+
+- 곡 메타 데이터
+
+- 곡에 대한 Mel-spectrogram
+ 
+ 관련 링크 : https://arena.kakao.com/c/7
+
+
+- 베이스라인 코드 깃허브 링크 : https://github.com/kakao-arena/melon-playlist-continuation
 
 ## 2. 공통사항
 
