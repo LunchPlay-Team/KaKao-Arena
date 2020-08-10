@@ -18,6 +18,8 @@ print('hello world')
 
 ## 2. 공통사항
 
+- 환경 설정 : Ubuntu 16.04
+
 ## 3. BERT
 
 - 환경설정
