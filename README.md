@@ -2,16 +2,16 @@
 
 ## 1. DATA SET
 
-- 플레이 리스트 메타 데이터
+- 플레이 리스트 메타 데이터(.json 파일)
 
-- 곡 메타 데이터
+- 곡 메타 데이터 (.json 파일)
 
-- 곡에 대한 Mel-spectrogram
+- 곡에 대한 Mel-spectrogram(.tar 파잏)
  
- 관련 링크 : https://arena.kakao.com/c/7
+ > 관련 링크 : https://arena.kakao.com/c/7
 
 
-- 베이스라인 코드 깃허브 링크 : https://github.com/kakao-arena/melon-playlist-continuation
+> 베이스라인 코드 깃허브 링크 : https://github.com/kakao-arena/melon-playlist-continuation
 
 ## 2. 공통사항
 
