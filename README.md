@@ -4,9 +4,6 @@
 
 - 플레이 리스트 메타 데이터(.json 파일)
 
-'''python
-print('hello world')
-
 - 곡 메타 데이터 (.json 파일)
 
 - 곡에 대한 Mel-spectrogram(.tar 파잏)
